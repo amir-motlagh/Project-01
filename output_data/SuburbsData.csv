@@ -39,7 +39,7 @@
 37,Archdale Junction,N/A,N/A,N/A
 38,Archies Creek,AU,-38.55,145.5667
 39,Ardeer,AU,-37.7759,144.8015
-40,Ardmona,N/A,N/A,N/A
+40,Ardmona,AU,-36.3833,145.3
 41,Argyle,AU,-36.95,144.7333
 42,Armadale,AU,-32.15,116
 43,Armstrong,AU,-37.2167,142.9
@@ -135,7 +135,7 @@
 133,Bellarine,AU,-38.1333,144.6167
 134,Bellbrae,AU,-38.3333,144.2667
 135,Bellbridge,AU,-36.0991,147.0621
-136,Bellfield,N/A,N/A,N/A
+136,Bellfield,AU,-37.7531,145.0385
 137,Belmont,AU,-33.0333,151.6667
 138,Bemm River,N/A,N/A,N/A
 139,Bena,AU,-38.4167,145.7667
@@ -170,7 +170,7 @@
 168,Blackburn North,AU,-37.8093,145.1518
 169,Blackburn South,AU,-37.8397,145.1555
 170,Blackwood,AU,-35.0167,138.6167
-171,Blairgowrie,N/A,N/A,N/A
+171,Blairgowrie,AU,-38.3613,144.7796
 172,Blind Bight,AU,-38.2142,145.3378
 173,Bobinawarrah,AU,-36.5167,146.5
 174,Bochara,AU,-37.7,141.9333
@@ -215,7 +215,7 @@
 213,Bridgewater,AU,-42.7333,147.2333
 214,Bridgewater On Loddon,N/A,N/A,N/A
 215,Bright,AU,-36.75,146.9667
-216,Brighton,N/A,N/A,N/A
+216,Brighton,AU,-27.2958,153.0572
 217,Brighton East,AU,-37.9014,145.0188
 218,Brim,AU,-36.0833,142.4167
 219,Brimin,AU,-36.05,146.2333
@@ -252,7 +252,7 @@
 250,Bullumwaal,AU,-37.6333,147.5333
 251,Buln Buln,AU,-38.1,145.9333
 252,Bumberrah,N/A,N/A,N/A
-253,Bunbartha,N/A,N/A,N/A
+253,Bunbartha,AU,-36.2167,145.3167
 254,Bundalaguah,AU,-38.0333,147.0167
 255,Bundalong,AU,-36.0333,146.1667
 256,Bundalong South,N/A,N/A,N/A
@@ -293,7 +293,7 @@
 291,Cambrian Hill,AU,-37.6333,143.8333
 292,Campbellfield,AU,-37.6833,144.95
 293,Campbells Bridge,AU,-36.9142,142.7832
-294,Campbells Creek,N/A,N/A,N/A
+294,Campbells Creek,AU,-37.1,144.2167
 295,Campbells Forest,AU,-36.6145,144.1426
 296,Campbelltown,AU,-34.0667,150.8167
 297,Camperdown,AU,-33.8896,151.1764
@@ -312,7 +312,7 @@
 310,Carapooee West,N/A,N/A,N/A
 311,Carapook,N/A,N/A,N/A
 312,Cardigan,AU,-37.5333,143.75
-313,Cardigan Village,N/A,N/A,N/A
+313,Cardigan Village,AU,-37.5162,143.7084
 314,Cardinia,AU,-38.15,145.4167
 315,Cardross,N/A,N/A,N/A
 316,Caringal,N/A,N/A,N/A
@@ -503,7 +503,7 @@
 501,Docklands,AU,-37.8175,144.9395
 502,Dollar,AU,-38.5665,146.1758
 503,Don Valley,AU,-37.7609,145.5869
-504,Donald,N/A,N/A,N/A
+504,Donald,AU,-36.3667,143
 505,Doncaster,AU,-37.7883,145.1237
 506,Doncaster East,AU,-37.7789,145.1639
 507,Donnybrook,AU,-33.5833,115.8167
@@ -515,7 +515,7 @@
 513,Doveton,AU,-37.9888,145.2386
 514,Driffield,N/A,N/A,N/A
 515,Dromana,AU,-38.3418,144.9656
-516,Drouin,N/A,N/A,N/A
+516,Drouin,AU,-38.1333,145.85
 517,Drouin East,N/A,N/A,N/A
 518,Drouin South,AU,-38.1667,145.8333
 519,Drouin West,AU,-38.1,145.8667
@@ -609,7 +609,7 @@
 607,Fingal,AU,-41.6333,147.9667
 608,Fish Creek,AU,-38.6833,146.0833
 609,Fitzroy,AU,-37.7833,144.9833
-610,Fitzroy North,N/A,N/A,N/A
+610,Fitzroy North,AU,-37.7833,144.9837
 611,Flaggy Creek,N/A,N/A,N/A
 612,Flemington,AU,-37.7868,144.9194
 613,Flinders,AU,-34.5833,150.8552
