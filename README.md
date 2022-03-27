@@ -3,7 +3,10 @@
 This project consists of scripts to analyse crime offence occured in Victoria.
 
 The following scripts file will answer the following questions: 
-
+  1. What are the trends in number of crimes across different Local Government Area?
+      - Which areas have the highest & lowest number of crimes?
+      - How are the trends in those areas?
+      - Have the crime activities been concentrated in certain geographical areas?
 
   2. Age-related crimes
       - What is the total number of crimes in each age group?
