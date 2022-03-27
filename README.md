@@ -13,6 +13,10 @@ The following scripts file will answer the following questions:
       - Comparison between amount of crime committed by males and females.
       - What types of crime have more incidence?
 
+  3. Setting of Crime
+      - How can we ensure enhanced security in residential areas?
+      - How has the offence counts impacted the community?
+      - Others (excluding residential and community) - are there other areas to keep an eye on considering the current situation?
 
   4. DrugsAnalysis
      - Has drug-related offences been increasing over the years?
