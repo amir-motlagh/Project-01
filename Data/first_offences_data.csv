@@ -1,0 +1,85 @@
+﻿Age,1,2,3,4,5 or more,State
+10–14 years,"3,857",848,423,242,596,New South Wales
+15–19 years,"12,127","2,860","1,169",655,"1,495",New South Wales
+20–24 years,"10,561","2,270",847,387,735,New South Wales
+25–29 years,"10,374","2,105",950,410,720,New South Wales
+30–34 years,"9,029","2,003",831,421,684,New South Wales
+35–39 years,"8,025","1,887",787,414,781,New South Wales
+40–44 years,"7,039","1,602",625,293,549,New South Wales
+45–49 years,"6,170","1,228",455,199,403,New South Wales
+50–54 years,"4,298",724,259,114,193,New South Wales
+55–59 years,"2,976",368,88,51,88,New South Wales
+60–64 years,"1,702",207,53,22,29,New South Wales
+65 years and over,"2,053",146,45,16,28,New South Wales
+10–14 years,"1,249",186,87,40,131,Victoria
+15–19 years,"6,970","1,288",512,287,594,Victoria
+20–24 years,"8,418","1,810",722,334,524,Victoria
+25–29 years,"7,999","1,867",819,404,619,Victoria
+30–34 years,"6,988","1,697",783,380,577,Victoria
+35–39 years,"6,279","1,549",691,388,537,Victoria
+40–44 years,"5,387","1,231",502,288,390,Victoria
+45–49 years,"4,590","1,003",361,170,229,Victoria
+50–54 years,"3,209",581,204,102,124,Victoria
+55–59 years,"2,040",282,92,40,55,Victoria
+60–64 years,"1,135",153,33,10,19,Victoria
+65 years and over,"1,449",113,25,5,12,Victoria
+10–14 years,"2,412",532,248,148,552,Queensland
+15–19 years,"8,345","2,019",831,456,994,Queensland
+20–24 years,"9,039","2,231",921,421,501,Queensland
+25–29 years,"7,957","2,182",905,434,643,Queensland
+30–34 years,"6,655","1,987",899,485,604,Queensland
+35–39 years,"6,027","1,797",851,423,568,Queensland
+40–44 years,"4,896","1,489",610,281,404,Queensland
+45–49 years,"4,163","1,037",398,169,231,Queensland
+50–54 years,"2,870",587,198,72,80,Queensland
+55–59 years,"1,775",261,75,29,41,Queensland
+60–64 years,"1,007",111,36,10,17,Queensland
+65 years and over,"1,296",110,35,9,9,Queensland
+10–14 years,495,103,37,27,83,South Australia
+15–19 years,"2,318",310,108,49,131,South Australia
+20–24 years,"3,227",389,142,67,92,South Australia
+25–29 years,"3,507",516,195,98,143,South Australia
+30–34 years,"3,429",510,219,116,171,South Australia
+35–39 years,"3,275",512,205,104,159,South Australia
+40–44 years,"2,804",414,155,78,104,South Australia
+45–49 years,"2,257",288,108,45,55,South Australia
+50–54 years,"1,633",158,50,25,22,South Australia
+55–59 years,"1,024",75,24,8,9,South Australia
+60–64 years,583,34,8,4,3,South Australia
+65 years and over,564,22,10,0,0,South Australia
+10–14 years,223,39,17,4,34,Tasmania
+15–19 years,826,180,71,28,80,Tasmania
+20–24 years,910,187,92,31,47,Tasmania
+25–29 years,857,193,99,27,65,Tasmania
+30–34 years,723,159,60,23,55,Tasmania
+35–39 years,647,166,60,37,61,Tasmania
+40–44 years,557,100,46,22,31,Tasmania
+45–49 years,458,81,23,7,10,Tasmania
+50–54 years,337,55,12,12,9,Tasmania
+55–59 years,205,37,3,0,0,Tasmania
+60–64 years,161,6,6,0,0,Tasmania
+65 years and over,193,10,5,0,0,Tasmania
+10–14 years,116,38,17,18,53,Northern Territory
+15–19 years,651,168,81,46,68,Northern Territory
+20–24 years,"1,054",232,63,20,17,Northern Territory
+25–29 years,"1,130",274,75,26,4,Northern Territory
+30–34 years,981,249,94,30,14,Northern Territory
+35–39 years,849,234,68,18,16,Northern Territory
+40–44 years,651,145,53,10,12,Northern Territory
+45–49 years,534,95,32,15,4,Northern Territory
+50–54 years,356,61,30,8,10,Northern Territory
+55–59 years,215,26,8,3,0,Northern Territory
+60–64 years,97,5,0,0,0,Northern Territory
+65 years and over,88,7,3,0,0,Northern Territory
+10–14 years,54,15,9,3,6,Australian Capital Territory
+15–19 years,262,29,14,8,11,Australian Capital Territory
+20–24 years,279,31,13,3,6,Australian Capital Territory
+25–29 years,305,58,20,4,5,Australian Capital Territory
+30–34 years,221,38,9,12,3,Australian Capital Territory
+35–39 years,208,47,18,4,8,Australian Capital Territory
+40–44 years,154,28,13,4,0,Australian Capital Territory
+45–49 years,129,18,3,5,3,Australian Capital Territory
+50–54 years,74,9,0,0,0,Australian Capital Territory
+55–59 years,32,3,0,0,0,Australian Capital Territory
+60–64 years,21,3,0,0,0,Australian Capital Territory
+65 years and over,26,0,0,0,0,Australian Capital Territory
