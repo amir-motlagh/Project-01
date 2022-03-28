@@ -15,7 +15,7 @@ The following scripts file will answer the following questions:
       - Comparison between amount of crime committed by males and females.
       - What types of crime have more incidence?
 
-  3. setting_of_crimes.ipynb
+  3. Setting_of_Crime.ipynb
       - How can we ensure enhanced security in residential areas?
       - How has the offence counts impacted the community?
       - Others (excluding residential and community) - are there other areas to keep an eye on considering the current situation?
