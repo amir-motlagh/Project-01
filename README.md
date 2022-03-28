@@ -1,6 +1,7 @@
 # Project-01
 
 This project consists of scripts to analyse crime offence occured in Victoria.
+Project 1 Documentation outlining analysis and presentation slides are attached. 
 
 The following scripts file will answer the following questions: 
   1. crime_by_lga.ipnyb
@@ -14,7 +15,7 @@ The following scripts file will answer the following questions:
       - Comparison between amount of crime committed by males and females.
       - What types of crime have more incidence?
 
-  3. Project 1.ipynb
+  3. Setting_Crimes.ipynb
       - How can we ensure enhanced security in residential areas?
       - How has the offence counts impacted the community?
       - Others (excluding residential and community) - are there other areas to keep an eye on considering the current situation?
@@ -23,3 +24,4 @@ The following scripts file will answer the following questions:
      - Has drug-related offences been increasing over the years?
      - What type of drug offence is the most popular?
      - What suburbs have the most drug-related offence?
+
