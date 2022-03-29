@@ -3,7 +3,8 @@
 This project consists of scripts to analyse crime offence occured in Victoria.
 Project 1 Documentation outlining analysis and presentation slides are attached. 
 
-The following scripts file will answer the following questions: 
+The following scripts file will generate charts/graphs to answer the following questions:
+
   1. crime_by_lga.ipnyb
       - What are the trends in number of crimes across different Local Government Area?
       - Which areas have the highest & lowest number of crimes?
